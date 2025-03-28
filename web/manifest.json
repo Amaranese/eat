@@ -1,6 +1,6 @@
 {
-    "name": "eat",
-    "short_name": "eat",
+    "name": "eat_fit",
+    "short_name": "eat_fit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -1,4 +1,4 @@
-# eat
+# eat_fit
 
 A new Flutter project.
 
